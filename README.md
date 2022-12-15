@@ -1,2 +1,0 @@
-# packrecursosvehiculs
-paquete de recursos 
